@@ -7,6 +7,9 @@ const AppRegistry = {
   registerConfig(configs) {
 
   },
+  setWrapperComponentProvider(provider) {
+
+  },
 
   registerComponent(appKey, getComponentFunc) {
     return appKey;
